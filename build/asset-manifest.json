@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7d6c9380.css",
+    "main.js": "./static/js/main.d9fff119.js",
+    "static/js/453.4c6f67b9.chunk.js": "./static/js/453.4c6f67b9.chunk.js",
+    "static/media/HuPMap.mp4": "./static/media/HuPMap.f0597deb21d7c4bbdc71.mp4",
+    "static/media/norhan_awad.jpg": "./static/media/norhan_awad.6c8b6691bb8279ef903c.jpg",
+    "static/media/omar_khaled.jpg": "./static/media/omar_khaled.a58d43388eef3f01ce25.jpg",
+    "static/media/ahmed_maher.jpg": "./static/media/ahmed_maher.99204f5c58a515929830.jpg",
+    "static/media/tamer_ashraf.jpg": "./static/media/tamer_ashraf.b5447dfe3cfedeed1a22.jpg",
+    "static/media/home_about.jpg": "./static/media/home_about.a2cb58060f22b5a573b0.jpg",
+    "static/media/ahmed_khaled.jpg": "./static/media/ahmed_khaled.d7265d8fc612fc64b97c.jpg",
+    "index.html": "./index.html",
+    "main.7d6c9380.css.map": "./static/css/main.7d6c9380.css.map",
+    "main.d9fff119.js.map": "./static/js/main.d9fff119.js.map",
+    "453.4c6f67b9.chunk.js.map": "./static/js/453.4c6f67b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d6c9380.css",
+    "static/js/main.d9fff119.js"
+  ]
+}
